@@ -23,7 +23,6 @@ Windows (7; 8; 8.1 and bigger) <br><br>
 13. EaseUS Partition Master (ver. 10+)
 14. GOM Player
   14.1 AC3Filter (ver. 2.6+)<br>
-15. Vim
-16. Uninstall tool (ver. 3+)
-17. 7-zip
-18. КОМПАС-3D (ver. 13+)
+15. Uninstall tool (ver. 3+)
+16. 7-zip
+17. КОМПАС-3D (ver. 13+)
