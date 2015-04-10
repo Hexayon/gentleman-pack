@@ -1,15 +1,15 @@
-Windows (7; 8; 8.1 and bigger) 
+Windows (7; 8; 8.1 and bigger) <br><br>
 
-1. Mozilla Firefox
-  1.1 AdBlock
-  1.2 All-in-One Gestures
-  1.3 Speed Dial (ver. 0.9+)
-  1.4 Gmail Notifier Plus
-2. Google Chrome
-  2.1 AdBlock
-  2.2 Gestures for Google Chrome
-  2.3 Speed Dial 2
-  2.4 Google Mail Checker
+1. Mozilla Firefox<br>
+  1.1 AdBlock<br>
+  1.2 All-in-One Gestures<br>
+  1.3 Speed Dial (ver. 0.9+)<br>
+  1.4 Gmail Notifier Plus<br>
+2. Google Chrome<br>
+  2.1 AdBlock<br>
+  2.2 Gestures for Google Chrome<br>
+  2.3 Speed Dial 2<br>
+  2.4 Google Mail Checker<br>
 3. Git
 4. Skype
 5. Python IDLE (ver. 3+)
@@ -22,7 +22,7 @@ Windows (7; 8; 8.1 and bigger)
 12. DAEMON Tools
 13. EaseUS Partition Master (ver. 10+)
 14. GOM Player
-  14.1 AC3Filter (ver. 2.6+)
+  14.1 AC3Filter (ver. 2.6+)<br>
 15. Vim
 16. Uninstall tool (ver. 3+)
 17. 7-zip
