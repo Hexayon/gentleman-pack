@@ -13,4 +13,4 @@ This list will gradually become more and will be supplemented by a list of progr
 # <strong>To contact:</strong>
  <i><strong>hexadeimal@ex.ua</strong></i> <br>
  <i><strong>d.sabayon@gmail.com</strong></i><br>
- or <u>Skype</u>: <i><strong>hexayon</strong></i>
+ or Skype: <i><strong>hexayon</strong></i>
