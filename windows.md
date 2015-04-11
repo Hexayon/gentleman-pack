@@ -24,16 +24,16 @@
 7. Torrent-client:<br>
  <a href=""> 7.1 BitTorrent<br>
  <a href=""> 7.2 uTorrent<br>
-  <a href="">7.3 BitComet<br>
+<a href=""> 7.3 BitComet<br>
  <a href=""> 7.4 BitSpirit<br>
 <a href="">8. Adobe Flashplayer</a><br>
 <a href=""> 9. Photoshop</a><br>
 <a href="">10. Adobe Illustrator</a><br>
 <a href="">11. AIMP3</a><br>
 <a href="">12. DAEMON Tools</a><br>
-<a href="">13. EaseUS Partition Master</a> (ver. 10+)<br>
-<a href="">14. GOM Player</a><br>
-  <a href="">14.1 AC3Filter</a> (ver. 2.6+)<br>
-<a href="">15. Uninstall tool</a> (ver. 3+)<br>
-<a href="">16. 7-zip</a><br>
- <a href="">17. Skype</a><br>
+13. <a href="">EaseUS Partition Master</a> (ver. 10+)<br>
+14. <a href="">GOM Player</a><br>
+  14.1 <a href="">AC3Filter</a> (ver. 2.6+)<br>
+15. <a href="">Uninstall tool</a> (ver. 3+)<br>
+16. <a href="">7-zip</a><br>
+17.  <a href="">Skype</a><br>
