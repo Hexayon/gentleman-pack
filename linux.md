@@ -1,6 +1,6 @@
 ### Choose one of the distributions below:
 <br>
-<a href="https://github.com/Hexayon/gentleman-pack/blob/master/ubuntu.md"><strong>1. Ubuntu</strong></a><br>
+<a href="https://github.com/Hexayon/gentleman-pack/blob/master/distributions/ubuntu.md"><strong>1. Ubuntu</strong></a><br>
 <br>
 <a href="https://github.com/Hexayon/gentleman-pack/blob/master/xubuntu.md"><strong>2. Xubuntu</strong></a><br>
 <br>
