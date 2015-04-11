@@ -10,7 +10,7 @@
 <br>
 <a href="https://github.com/Hexayon/gentleman-pack/blob/master/manjaro.md"><strong>5. Manjaro</strong></a><br>
 <br>
-<a href="https://github.com/Hexayon/gentleman-pack/blob/master/manjaro.md"><strong>6. Manjaro</strong></a><br>
+<a href="https://github.com/Hexayon/gentleman-pack/blob/master/debian.md"><strong>6. Debian</strong></a><br>
 <br>
-<a href="https://github.com/Hexayon/gentleman-pack/blob/master/manjaro.md"><strong>7. Fedora</strong></a><br>
+<a href="https://github.com/Hexayon/gentleman-pack/blob/master/fedora.md"><strong>7. Fedora</strong></a><br>
 <br>
