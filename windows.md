@@ -25,4 +25,3 @@ Windows (7; 8; 8.1 and bigger) <br><br>
   14.1 AC3Filter (ver. 2.6+)<br>
 15. Uninstall tool (ver. 3+)
 16. 7-zip
-17. КОМПАС-3D (ver. 13+)
