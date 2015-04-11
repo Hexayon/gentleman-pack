@@ -1,10 +1,10 @@
 #<a href="http://windows.microsoft.com/en-us/windows/downloads">Windows</a> (7+) <br><br>
 
-<a href="https://www.mozilla.org/firefox/new/?scene=2#download-fx">1. Mozilla Firefox</a><br>
-  <a href="">1.1 AdBlock</a><br>
-  <a href="">1.2 All-in-One Gestures</a><br>
-  <a href="">1.3 Speed Dial (ver. 0.9+)</a><br>
-  <a href="">1.4 Gmail Notifier Plus</a><br>
+1. <a href="https://www.mozilla.org/firefox/new/?scene=2#download-fx">Mozilla Firefox</a><br>
+  1.1 <a href="">AdBlock</a><br>
+  1.2 <a href="">All-in-One Gestures</a><br>
+  1.3 <a href="">Speed Dial (ver. 0.9+)</a><br>
+  1.4 <a href="">Gmail Notifier Plus</a><br>
 <a href="">2. Google Chrome</a><br>
   <a href="">2.1 AdBlock</a><br>
   <a href="">2.2 Gestures for Google Chrome</a><br>
