@@ -5,35 +5,36 @@
   1.2 <a href="">All-in-One Gestures</a><br>
   1.3 <a href="">Speed Dial (ver. 0.9+)</a><br>
   1.4 <a href="">Gmail Notifier Plus</a><br>
-<a href="">2. Google Chrome</a><br>
-  <a href="">2.1 AdBlock</a><br>
-  <a href="">2.2 Gestures for Google Chrome</a><br>
-  <a href="">2.3 Speed Dial 2</a><br>
-  <a href="">2.4 Google Mail Checker</a><br>
-<a href="">3. Git</a><br>
-4. IDE (Integrated Development Environment):<br>
-  <a href="">4.1  </a><br>
-  <a href="">4.2  </a><br>
-  <a href="">4.3  </a><br>
-<a href="">5. Python IDLE</a> (ver. 3+)<br>
-6. Cloud Storage:<br>
-  <a href="">6.1 Google disk</a><br>
-  <a href="">6.2 Yandex disk</a><br>
-  <a href="">6.3 MEGA</a><br>
-  <a href="">6.4 DropBox</a><br>
-7. Torrent-client:<br>
- <a href=""> 7.1 BitTorrent<br>
- <a href=""> 7.2 uTorrent<br>
-<a href=""> 7.3 BitComet<br>
- <a href=""> 7.4 BitSpirit<br>
-<a href="">8. Adobe Flashplayer</a><br>
-<a href=""> 9. Photoshop</a><br>
-<a href="">10. Adobe Illustrator</a><br>
-<a href="">11. AIMP3</a><br>
-<a href="">12. DAEMON Tools</a><br>
+2. <a href="">Google Chrome</a><br>
+  2.1 <a href="">AdBlock</a><br>
+  2.2 <a href="">Gestures for Google Chrome</a><br>
+  2.3 <a href="">Speed Dial 2</a><br>
+  2.4 <a href="">Google Mail Checker</a><br>
+3. <a href="">Git</a><br>
+4. <strong>IDE (Integrated Development Environment):</strong><br>
+  4.1 <a href="">Eclipse</a><br>
+  4.2 <a href="">NetBeans</a><br>
+  4.3 <a href="">IntelliJ IDEA</a><br>
+  4.4 <a href="">Visual Studio</a><br>
+5. <a href="">Python IDLE</a> (ver. 3+)<br>
+6. <strong>Cloud Storage:</strong><br>
+  6.1 <a href="">Google disk</a><br>
+  6.2 <a href="">Yandex disk</a><br>
+  6.3 <a href="">MEGA</a><br>
+  6.4 <a href="">DropBox</a><br>
+7. <strong>Torrent-client:</strong><br>
+  7.1 <a href="">BitTorrent</a><br>
+  7.2 <a href="">uTorrent</a><br>
+  7.3 <a href="">BitComet</a><br>
+  7.4 <a href="">BitSpirit</a><br>
+8. <a href="">Adobe Flashplayer</a><br>
+9. <a href="">Photoshop</a><br>
+10. <a href="">Adobe Illustrator</a><br>
+11. <a href="">AIMP3</a><br>
+12. <a href="">DAEMON Tools</a><br>
 13. <a href="">EaseUS Partition Master</a> (ver. 10+)<br>
-14. <a href="">GOM Player</a>
-  14.1 <a href="">AC3Filter</a> (ver. 2.6+)
+14. <a href="">GOM Player</a><br>
+  14.1 <a href="">AC3Filter</a> (ver. 2.6+)<br>
 15. <a href="">Uninstall tool</a> (ver. 3+)<br>
 16. <a href="">7-zip</a><br>
 17.  <a href="">Skype</a><br>
