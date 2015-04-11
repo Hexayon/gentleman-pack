@@ -1,4 +1,4 @@
-<a href="http://windows.microsoft.com/en-us/windows/downloads">Windows</a> (7; 8; 8.1 and bigger) <br><br>
+#<a href="http://windows.microsoft.com/en-us/windows/downloads">Windows</a> (7+) <br><br>
 
 <a href="https://www.mozilla.org/firefox/new/?scene=2#download-fx">1. Mozilla Firefox</a><br>
   <a href="">1.1 AdBlock</a><br>
