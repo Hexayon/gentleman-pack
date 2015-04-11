@@ -32,8 +32,8 @@
 <a href="">11. AIMP3</a><br>
 <a href="">12. DAEMON Tools</a><br>
 13. <a href="">EaseUS Partition Master</a> (ver. 10+)<br>
-14. <a href="">GOM Player</a><br>
-  14.1 <a href="">AC3Filter</a> (ver. 2.6+)<br>
+14. <a href="">GOM Player</a>
+  14.1 <a href="">AC3Filter</a> (ver. 2.6+)
 15. <a href="">Uninstall tool</a> (ver. 3+)<br>
 16. <a href="">7-zip</a><br>
 17.  <a href="">Skype</a><br>
