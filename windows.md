@@ -1,35 +1,39 @@
 <a href="http://windows.microsoft.com/en-us/windows/downloads">Windows</a> (7; 8; 8.1 and bigger) <br><br>
 
-1. <a href="https://www.mozilla.org/firefox/new/?scene=2#download-fx">Mozilla Firefox</a><br>
-  1.1 <a href="">AdBlock</a><br>
-  1.2 <a href="">All-in-One Gestures</a><br>
-  1.3 <a href="">Speed Dial (ver. 0.9+)</a><br>
-  1.4 <a href="">Gmail Notifier Plus</a><br>
-2. <a href="">Google Chrome</a><br>
-  2.1 <a href="">AdBlock</a><br>
-  2.2 <a href="">Gestures for Google Chrome</a><br>
-  2.3 <a href="">Speed Dial 2</a><br>
-  2.4 <a href="">Google Mail Checker</a><br>
-3. <a href="">Git</a>
-4. <a href="">Skype</a>
-5. <a href="">Python IDLE</a> (ver. 3+)
+<a href="https://www.mozilla.org/firefox/new/?scene=2#download-fx">1. Mozilla Firefox</a><br>
+  <a href="">1.1 AdBlock</a><br>
+  <a href="">1.2 All-in-One Gestures</a><br>
+  <a href="">1.3 Speed Dial (ver. 0.9+)</a><br>
+  <a href="">1.4 Gmail Notifier Plus</a><br>
+<a href="">2. Google Chrome</a><br>
+  <a href="">2.1 AdBlock</a><br>
+  <a href="">2.2 Gestures for Google Chrome</a><br>
+  <a href="">2.3 Speed Dial 2</a><br>
+  <a href="">2.4 Google Mail Checker</a><br>
+<a href="">3. Git</a>
+4. IDE (Integrated Development Environment):<br>
+  <a href="">4.1  </a><br>
+  <a href="">4.2  </a><br>
+  <a href="">4.3  </a><br>
+<a href="">5. Python IDLE</a> (ver. 3+)
 6. Cloud Storage:<br>
-  6.1 <a href="">Google disk</a><br>
-  6.2 <a href="">Yandex disk</a><br>
-  6.3 <a href="">MEGA</a><br>
-  6.4 <a href="">DropBox</a><br>
+  <a href="">6.1 Google disk</a><br>
+  <a href="">6.2 Yandex disk</a><br>
+  <a href="">6.3 MEGA</a><br>
+  <a href="">6.4 DropBox</a><br>
 7. Torrent-client:<br>
-  7.1 <a href="">BitTorrent<br>
-  7.2 <a href="">uTorrent<br>
-  7.3 <a href="">BitComet<br>
-  7.4 <a href="">BitSpirit<br>
-8. <a href="">Adobe Flashplayer</a>
-9. <a href=""> Photoshop</a>
-10. <a href="">Adobe Illustrator</a>
-11. <a href="">AIMP3</a>
-12. <a href="">DAEMON Tools</a>
-13. <a href="">EaseUS Partition Master</a> (ver. 10+)
-14. <a href="">GOM Player</a><br>
-  14.1 <a href="">AC3Filter</a> (ver. 2.6+)<br>
-15. <a href="">Uninstall tool</a> (ver. 3+)
-16. <a href="">7-zip</a>
+ <a href=""> 7.1 BitTorrent<br>
+ <a href=""> 7.2 uTorrent<br>
+  <a href="">7.3 BitComet<br>
+ <a href=""> 7.4 BitSpirit<br>
+<a href="">8. Adobe Flashplayer</a>
+<a href=""> 9. Photoshop</a>
+<a href="">10. Adobe Illustrator</a>
+<a href="">11. AIMP3</a>
+<a href="">12. DAEMON Tools</a>
+<a href="">13. EaseUS Partition Master</a> (ver. 10+)
+<a href="">14. GOM Player</a><br>
+  <a href="">14.1 AC3Filter</a> (ver. 2.6+)<br>
+<a href="">15. Uninstall tool</a> (ver. 3+)
+<a href="">16. 7-zip</a>
+ <a href="">17. Skype</a>
