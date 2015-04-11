@@ -1,40 +1,40 @@
-#<a href="http://windows.microsoft.com/en-us/windows/downloads">Windows</a> (7+) <br><br>
+## Gentleman Pack for <a href="http://windows.microsoft.com/en-us/windows/downloads">Windows</a> (ver. 7+) <br><br>
 
 1. <a href="https://www.mozilla.org/firefox/new/?scene=2#download-fx">Mozilla Firefox</a><br>
-  1.1 <a href="">AdBlock</a><br>
-  1.2 <a href="">All-in-One Gestures</a><br>
-  1.3 <a href="">Speed Dial (ver. 0.9+)</a><br>
-  1.4 <a href="">Gmail Notifier Plus</a><br>
-2. <a href="">Google Chrome</a><br>
-  2.1 <a href="">AdBlock</a><br>
-  2.2 <a href="">Gestures for Google Chrome</a><br>
-  2.3 <a href="">Speed Dial 2</a><br>
-  2.4 <a href="">Google Mail Checker</a><br>
-3. <a href="">Git</a><br>
+  1.1 <a href="https://addons.mozilla.org/ru/firefox/addon/adblock-plus/?src=search">AdBlock Plus</a><br>
+  1.2 <a href="https://addons.mozilla.org/ru/firefox/addon/all-in-one-gestures/?src=search">All-in-One Gestures</a><br>
+  1.3 <a href="https://addons.mozilla.org/ru/firefox/addon/speed-dial/?src=search">Speed Dial (ver. 0.9+)</a><br>
+  1.4 <a href="https://addons.mozilla.org/ru/firefox/addon/fastest-notifier-for-gmail/?src=search">Gmail Notifier Plus</a><br>
+2. <a href="http://www.google.com.ua/intl/us/chrome/browser/desktop/index.html">Google Chrome</a><br>
+  2.1 <a href="https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom?hl=en">AdBlock</a><br>
+  2.2 <a href="https://chrome.google.com/webstore/detail/gestures-for-google-chrom/jpkfjicglakibpenojifdiepckckakgk?hl=en">Gestures for Google Chrome</a><br>
+  2.3 <a href="https://chrome.google.com/webstore/detail/speed-dial-2/jpfpebmajhhopeonhlcgidhclcccjcik?hl=en">Speed Dial 2</a><br>
+  2.4 <a href="https://chrome.google.com/webstore/detail/google-mail-checker/mihcahmgecmbnbcchbopgniflfhgnkff?hl=en">Google Mail Checker</a><br>
+3. <a href="http://git-scm.com/">Git</a><br>
 4. <strong>IDE (Integrated Development Environment):</strong><br>
-  4.1 <a href="">Eclipse</a><br>
-  4.2 <a href="">NetBeans</a><br>
-  4.3 <a href="">IntelliJ IDEA</a><br>
-  4.4 <a href="">Visual Studio</a><br>
-5. <a href="">Python IDLE</a> (ver. 3+)<br>
+  4.1 <a href="https://www.eclipse.org/downloads/">Eclipse</a><br>
+  4.2 <a href="https://netbeans.org/downloads/">NetBeans</a><br>
+  4.3 <a href="https://www.jetbrains.com/idea/download/">IntelliJ IDEA</a><br>
+  4.4 <a href="https://www.visualstudio.com/en-us/downloads/download-visual-studio-vs.aspx">Visual Studio</a><br>
+5. <a href="https://www.python.org/downloads/">Python IDLE</a> (ver. 3+)<br>
 6. <strong>Cloud Storage:</strong><br>
-  6.1 <a href="">Google disk</a><br>
-  6.2 <a href="">Yandex disk</a><br>
-  6.3 <a href="">MEGA</a><br>
-  6.4 <a href="">DropBox</a><br>
+  6.1 <a href="https://www.google.com/intl/en/drive/download/">Google drive</a><br>
+  6.2 <a href="https://disk.yandex.ua/?ncrnd=4997">Yandex.Disk</a><br>
+  6.3 <a href="https://mega.co.nz/#sync">MEGA</a><br>
+  6.4 <a href="https://www.dropbox.com/downloading">Dropbox</a><br>
 7. <strong>Torrent-client:</strong><br>
-  7.1 <a href="">BitTorrent</a><br>
-  7.2 <a href="">uTorrent</a><br>
-  7.3 <a href="">BitComet</a><br>
-  7.4 <a href="">BitSpirit</a><br>
-8. <a href="">Adobe Flashplayer</a><br>
-9. <a href="">Photoshop</a><br>
-10. <a href="">Adobe Illustrator</a><br>
-11. <a href="">AIMP3</a><br>
-12. <a href="">DAEMON Tools</a><br>
-13. <a href="">EaseUS Partition Master</a> (ver. 10+)<br>
-14. <a href="">GOM Player</a><br>
-  14.1 <a href="">AC3Filter</a> (ver. 2.6+)<br>
-15. <a href="">Uninstall tool</a> (ver. 3+)<br>
-16. <a href="">7-zip</a><br>
-17.  <a href="">Skype</a><br>
+  7.1 <a href="http://www.bittorrent.com/">BitTorrent</a><br>
+  7.2 <a href="http://www.utorrent.com/intl/ru/downloads/win">uTorrent</a><br>
+  7.3 <a href="http://www.bitcomet.com/">BitComet</a><br>
+  7.4 <a href="http://www.bitspirit.cc/en/">BitSpirit</a><br>
+8. <a href="https://get.adobe.com/ru/flashplayer/">Adobe Flash Player</a><br>
+9. <a href="http://www.adobe.com/uk/products/photoshop.html">Photoshop</a><br>
+10. <a href="http://www.adobe.com/uk/products/illustrator.html">Adobe Illustrator</a><br>
+11. <a href="http://www.aimp.ru/index.php?do=download">AIMP</a><br>
+12. <a href="http://www.daemon-tools.cc/downloads">DAEMON Tools</a><br>
+13. <a href="http://www.partition-tool.com/download.htm">EaseUS Partition Master</a> (ver. 10+)<br>
+14. <a href="http://player.gomlab.com/eng/download/">GOM Player</a><br>
+  14.1 <a href="http://www.ac3filter.net/wiki/Download_AC3Filter">AC3Filter</a> (ver. 2.6+)<br>
+15. <a href="http://www.crystalidea.com/ru/download">Uninstall tool</a> (ver. 3+)<br>
+16. <a href="http://www.7-zip.org/download.html">7-zip</a><br>
+17.  <a href="http://www.skype.com/en/download-skype/skype-for-computer/">Skype</a><br>
