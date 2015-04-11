@@ -10,12 +10,12 @@
   <a href="">2.2 Gestures for Google Chrome</a><br>
   <a href="">2.3 Speed Dial 2</a><br>
   <a href="">2.4 Google Mail Checker</a><br>
-<a href="">3. Git</a>
+<a href="">3. Git</a><br>
 4. IDE (Integrated Development Environment):<br>
   <a href="">4.1  </a><br>
   <a href="">4.2  </a><br>
   <a href="">4.3  </a><br>
-<a href="">5. Python IDLE</a> (ver. 3+)
+<a href="">5. Python IDLE</a> (ver. 3+)<br>
 6. Cloud Storage:<br>
   <a href="">6.1 Google disk</a><br>
   <a href="">6.2 Yandex disk</a><br>
@@ -26,14 +26,14 @@
  <a href=""> 7.2 uTorrent<br>
   <a href="">7.3 BitComet<br>
  <a href=""> 7.4 BitSpirit<br>
-<a href="">8. Adobe Flashplayer</a>
-<a href=""> 9. Photoshop</a>
-<a href="">10. Adobe Illustrator</a>
-<a href="">11. AIMP3</a>
-<a href="">12. DAEMON Tools</a>
-<a href="">13. EaseUS Partition Master</a> (ver. 10+)
+<a href="">8. Adobe Flashplayer</a><br>
+<a href=""> 9. Photoshop</a><br>
+<a href="">10. Adobe Illustrator</a><br>
+<a href="">11. AIMP3</a><br>
+<a href="">12. DAEMON Tools</a><br>
+<a href="">13. EaseUS Partition Master</a> (ver. 10+)<br>
 <a href="">14. GOM Player</a><br>
   <a href="">14.1 AC3Filter</a> (ver. 2.6+)<br>
-<a href="">15. Uninstall tool</a> (ver. 3+)
-<a href="">16. 7-zip</a>
- <a href="">17. Skype</a>
+<a href="">15. Uninstall tool</a> (ver. 3+)<br>
+<a href="">16. 7-zip</a><br>
+ <a href="">17. Skype</a><br>
