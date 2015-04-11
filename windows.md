@@ -13,23 +13,23 @@
 3. <a href="">Git</a>
 4. <a href="">Skype</a>
 5. <a href="">Python IDLE</a> (ver. 3+)
-6. Cloud Storage:
-  6.1 <a href="">Google disk</a>
-  6.2 <a href="">Yandex disk</a>
-  6.3 <a href="">MEGA</a>
-  6.4 <a href="">DropBox</a>
-7. Torrent-client:
-  7.1 <a href="">BitTorrent
-  7.2 <a href="">uTorrent
-  7.3 <a href="">BitComet
-  7.4 <a href="">BitSpirit
+6. Cloud Storage:<br>
+  6.1 <a href="">Google disk</a><br>
+  6.2 <a href="">Yandex disk</a><br>
+  6.3 <a href="">MEGA</a><br>
+  6.4 <a href="">DropBox</a><br>
+7. Torrent-client:<br>
+  7.1 <a href="">BitTorrent<br>
+  7.2 <a href="">uTorrent<br>
+  7.3 <a href="">BitComet<br>
+  7.4 <a href="">BitSpirit<br>
 8. <a href="">Adobe Flashplayer</a>
 9. <a href=""> Photoshop</a>
 10. <a href="">Adobe Illustrator</a>
 11. <a href="">AIMP3</a>
 12. <a href="">DAEMON Tools</a>
 13. <a href="">EaseUS Partition Master</a> (ver. 10+)
-14. <a href="">GOM Player</a>
+14. <a href="">GOM Player</a><br>
   14.1 <a href="">AC3Filter</a> (ver. 2.6+)<br>
 15. <a href="">Uninstall tool</a> (ver. 3+)
 16. <a href="">7-zip</a>
