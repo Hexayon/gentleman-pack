@@ -1,5 +1,4 @@
-### Choose one of the distributions below.
-<br>
+### Choose one of the distributions below:
 <br>
 <a href="https://github.com/Hexayon/gentleman-pack/blob/master/ubuntu.md"><strong>1. Ubuntu</strong></a><br>
 <br>
