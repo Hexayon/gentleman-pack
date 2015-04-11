@@ -10,7 +10,7 @@ This list will gradually become more and will be supplemented by a list of progr
 <br>
 <a href="https://github.com/Hexayon/gentleman-pack/blob/master/mac.md"><strong>Mac OS</strong></a><br>
 <br>
-# To contact:
- hexadeimal@ex.ua <br>
- d.sabayon@gmail.com<br>
- or Skype: hexayon
+# <strong>To contact:</strong>
+ <u><strong>hexadeimal@ex.ua</strong></u> <br>
+ <u><strong>d.sabayon@gmail.com</strong></u><br>
+ or Skype: <u><strong>hexayon</strong></u>
