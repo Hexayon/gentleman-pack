@@ -11,6 +11,6 @@ This list will gradually become more and will be supplemented by a list of progr
 <a href="https://github.com/Hexayon/gentleman-pack/blob/master/mac.md"><strong>Mac OS</strong></a><br>
 <br>
 # <strong>To contact:</strong>
- <u><strong>hexadeimal@ex.ua</strong></u> <br>
- <u><strong>d.sabayon@gmail.com</strong></u><br>
- or Skype: <u><strong>hexayon</strong></u>
+ <i><strong>hexadeimal@ex.ua</strong></i> <br>
+ <i><strong>d.sabayon@gmail.com</strong></i><br>
+ or Skype: <i><strong>hexayon</strong></i>
