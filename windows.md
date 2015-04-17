@@ -63,3 +63,8 @@
   11.2 <a href="https://pidgin.im/download/">Pidgin</a><br>
   11.3 <a href="https://www.icq.com">ICQ</a><br>
   11.4 <a href="https://desktop.telegram.org/">Telegram Messenger</a><br>
+
+12. <strong>File Archivers:</strong><br>
+  12.1 <a href="http://www.winzip.com/win/ru/index.htm">WinZip</a><br>
+  12.2 <a href="http://www.win-rar.ru/download/">WinRAR</a><br>
+  12.3 <a href="http://www.7-zip.org/download.html">7-zip</a><br>
