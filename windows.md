@@ -17,7 +17,12 @@
   3.2 <a href="https://netbeans.org/downloads/">NetBeans</a><br>
   3.3 <a href="https://www.jetbrains.com/idea/download/">IntelliJ IDEA</a><br>
   3.4 <a href="https://www.visualstudio.com/en-us/downloads/download-visual-studio-vs.aspx">Visual Studio</a><br>
-4. <a href="https://www.python.org/downloads/">Python IDLE</a> (ver. 3+)<br>
+  3.5 <a href="https://www.python.org/downloads/">Python IDLE</a> (ver. 3+)<br>
+
+4. <strong>Media Players:</strong><br>
+  4.1 <a href="http://player.gomlab.com/eng/download/">GOM Player</a><br>
+  4.2 <a href="http://www.videolan.org/vlc/">VLC</a><br>
+  4.3 <a href="http://www.kmplayer.com/">KMPlayer</a><br>
 
 5. <strong>Cloud Storage:</strong><br>
   5.1 <a href="https://www.google.com/intl/en/drive/download/">Google drive</a><br>
@@ -41,11 +46,6 @@
   7.7 <a href="http://www.adobe.com/uk/products/photoshop.html">Photoshop</a><br>
   7.8 <a href="https://get.adobe.com/ru/flashplayer/">Adobe Flash Player</a><br>
   7.9 <a href="http://git-scm.com/">Git</a><br>
-
-8. <strong>Media Players:</strong><br>
-  8.1 <a href="http://player.gomlab.com/eng/download/">GOM Player</a><br>
-  8.2 <a href="http://www.videolan.org/vlc/">VLC</a><br>
-  8.3 <a href="http://www.kmplayer.com/">KMPlayer</a><br>
 
 9. <strong>Audio Players:</strong><br>
   9.1 <a href="http://www.aimp.ru/index.php?do=download">AIMP</a><br>
