@@ -30,11 +30,28 @@
 8. <a href="https://get.adobe.com/ru/flashplayer/">Adobe Flash Player</a><br>
 9. <a href="http://www.adobe.com/uk/products/photoshop.html">Photoshop</a><br>
 10. <a href="http://www.adobe.com/uk/products/illustrator.html">Adobe Illustrator</a><br>
-11. <a href="http://www.aimp.ru/index.php?do=download">AIMP</a><br>
-12. <a href="http://www.daemon-tools.cc/downloads">DAEMON Tools</a><br>
-13. <a href="http://www.partition-tool.com/download.htm">EaseUS Partition Master</a> (ver. 10+)<br>
-14. <a href="http://player.gomlab.com/eng/download/">GOM Player</a><br>
-  14.1 <a href="http://www.ac3filter.net/wiki/Download_AC3Filter">AC3Filter</a> (ver. 2.6+)<br>
-15. <a href="http://www.crystalidea.com/ru/download">Uninstall tool</a> (ver. 3+)<br>
-16. <a href="http://www.7-zip.org/download.html">7-zip</a><br>
-17.  <a href="http://www.skype.com/en/download-skype/skype-for-computer/">Skype</a><br>
+11. 
+12. <strong>System Utilities:</strong><br>
+  12.1 <a href="http://www.daemon-tools.cc/downloads">DAEMON Tools</a><br>
+  12.2 <a href="http://www.partition-tool.com/download.htm">EaseUS Partition Master</a> (ver. 10+)<br>
+  12.3 <a href="http://www.ac3filter.net/wiki/Download_AC3Filter">AC3Filter</a> (ver. 2.6+)<br>
+  12.4 <a href="http://www.crystalidea.com/ru/download">Uninstall tool</a> (ver. 3+)<br>
+  12.5 <a href="http://www.burnaware.com/download.html">Burnaware</a><br>
+13. <strong>Media Players:</strong><br>
+  13.1 <a href="http://player.gomlab.com/eng/download/">GOM Player</a><br>
+  13.2 <a href="http://www.videolan.org/vlc/">VLC</a><br>
+  13.3 <a href="http://www.kmplayer.com/">KMPlayer</a><br>
+14. <strong>Audio Players:</strong><br>
+  14.1 <a href="http://www.aimp.ru/index.php?do=download">AIMP</a><br>
+  14.2 <a href="http://audio.gomlab.com/eng/">GOM Audio</a><br>
+  14.3 <a href="http://www.winamp.com/">Winamp</a><br>
+15. <strong>Text Editors:</strong><br>
+  15.1 <a href="http://www.sublimetext.com/2">Sublime Text</a><br>
+  15.2 <a href="http://brackets.io/">Brackets</a><br>
+  15.3 <a href="http://notepad-plus-plus.org/download/">Notepad++</a><br>
+  15.4 <a href="https://atom.io/">Atom</a><br>
+16. <strong>Communication apps:</strong><br> 
+  16.1 <a href="http://www.skype.com/en/download-skype/skype-for-computer/">Skype</a><br>
+  16.2 <a href="https://pidgin.im/download/">Pidgin</a><br>
+  16.3 <a href="https://www.icq.com">ICQ</a><br>
+  16.4 <a href="https://desktop.telegram.org/">Telegram Messenger</a><br>
