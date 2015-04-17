@@ -2,10 +2,6 @@
 <br>
 <a href="https://github.com/Hexayon/gentleman-pack/blob/master/distributions/ubuntu.md"><strong>1. Ubuntu</strong></a><br>
 <br>
-<a href="https://github.com/Hexayon/gentleman-pack/blob/master/distributions/xubuntu.md"><strong>2. Xubuntu</strong></a><br>
-<br>
-<a href="https://github.com/Hexayon/gentleman-pack/blob/master/distributions/kubuntu.md"><strong>3. Kubuntu</strong></a><br>
-<br>
 <a href="https://github.com/Hexayon/gentleman-pack/blob/master/distributions/opensuse.md"><strong>4. OpenSUSE</strong></a><br>
 <br>
 <a href="https://github.com/Hexayon/gentleman-pack/blob/master/distributions/manjaro.md"><strong>5. Manjaro</strong></a><br>
