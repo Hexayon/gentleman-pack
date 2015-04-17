@@ -1,9 +1,6 @@
-<script>
-function op(obj) {
-x=document.getElementById(obj);
-if(x.style.display == "none") x.style.display = "block";
-else x.style.display = "none"
-}
-</script>
-<a href="/" onClick="op('div1'); return false;"> Показать \Скрыть</a>
-<div id="div1" style="display:none">Скрытый или показаный  текст  =)</div>
+<script type="text/javascript"> function displ(ddd) { if (document.getElementById(ddd).style.display == 'none') {document.getElementById(ddd).style.display = 'block'} else {document.getElementById(ddd).style.display = 'none'} } </script> 
+<a href="javascript: displ('var')"> скрытый текст</a>
+<div id="var" style="display: none;">
+Этот скрытый текст сделан с помощью JavaScript. И вот по какому принципу он работает:... (далее по тексту)
+<a href="javascript: displ('var')"> Закрыть текст и читать далее.</a>
+</div> 
