@@ -64,7 +64,7 @@
   11.3 <a href="https://www.icq.com">ICQ</a><br>
   11.4 <a href="https://desktop.telegram.org/">Telegram Messenger</a><br>
 
-12. <strong>File Archivers:</strong><br><ul>
+* <strong>File Archivers:</strong><br><ul>
 <li> <a href="http://www.winzip.com/win/ru/index.htm">WinZip</a><br></li>
 <li> <a href="http://www.win-rar.ru/download/">WinRAR</a><br></li>
 <ul>
