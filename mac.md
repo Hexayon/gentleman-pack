@@ -1,6 +1,1 @@
-* Need to edit.
- *
-
-{{Hider|Заголовок
-Содержимое
-}}
+Need to edit.
