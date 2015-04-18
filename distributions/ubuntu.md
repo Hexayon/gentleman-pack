@@ -1,5 +1,4 @@
-<p align="center">
-Текст выровнен по центру, розового цвета, размером в 30 пикселей.</p>
+<p align="center">AFTER INSTALLATION</p>
 
 <pre><code>Test</code></pre>
 ^ test
