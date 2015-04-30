@@ -63,7 +63,7 @@
 * <strong>Office:</strong><br> <ul>
 <li> <a href="https://products.office.com/ru-ru/home">Microsoft Office</a><br>
 <li> <a href="https://ru.libreoffice.org/download/">Libre Office</a><br>
-<li> <a href="http://www.openoffice.org/ru/download/">OpenOffice</a><br>
+<li> <a href="http://www.openoffice.org/ru/download/">OpenOffice</a><br> </ul>
 
 * <strong>Communication apps:</strong><br> <ul>
 <li> <a href="http://www.skype.com/en/download-skype/skype-for-computer/">Skype</a><br>
