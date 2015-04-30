@@ -51,7 +51,8 @@
 * <strong>Audio Players:</strong><br><ul>
 <li> <a href="http://www.aimp.ru/index.php?do=download">AIMP</a><br>
 <li> <a href="http://audio.gomlab.com/eng/">GOM Audio</a><br>
-<li> <a href="http://www.winamp.com/">Winamp</a><br></ul>
+<li> <a href="http://www.winamp.com/">Winamp</a><br>
+<li> <a href="http://meridianvk.com/">Meridian</a><br></ul>
 
 * <strong>Text Editors:</strong><br><ul>
 <li> <a href="http://www.sublimetext.com/2">Sublime Text</a><br>
