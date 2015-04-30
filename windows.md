@@ -58,7 +58,8 @@
 <li> <a href="http://www.sublimetext.com/2">Sublime Text</a><br>
 <li> <a href="http://brackets.io/">Brackets</a><br>
 <li> <a href="http://notepad-plus-plus.org/download/">Notepad++</a><br>
-<li> <a href="https://atom.io/">Atom</a><br></ul>
+<li> <a href="https://atom.io/">Atom</a><br>
+<li> <a href="https://code.visualstudio.com/">Visual Studio Code</a><br></ul>
 
 * <strong>Office:</strong><br> <ul>
 <li> <a href="https://products.office.com/ru-ru/home">Microsoft Office</a><br>
