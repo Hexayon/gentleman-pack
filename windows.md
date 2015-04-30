@@ -34,6 +34,7 @@
 * <strong>Torrent-client:</strong><br><ul>
 <li> <a href="http://www.bittorrent.com/">BitTorrent</a><br>
 <li> <a href="http://www.utorrent.com/intl/ru/downloads/win">uTorrent</a><br>
+<hr>
 <li> <a href="http://www.bitcomet.com/">BitComet</a><br>
 <li> <a href="http://www.bitspirit.cc/en/">BitSpirit</a><br></ul>
 
