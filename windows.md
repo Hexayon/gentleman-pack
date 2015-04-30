@@ -1,5 +1,5 @@
-## Gentleman Pack for <a href="http://windows.microsoft.com/en-us/windows/downloads">Windows</a> (ver. 7+) <br><br>
-<hr>
+                                  ## Gentleman Pack for <a href="http://windows.microsoft.com/en-us/windows/downloads">Windows</a> (ver. 7+) <br><br>
+
 * <a href="https://www.mozilla.org/firefox/new/?scene=2#download-fx"><strong>Mozilla Firefox</strong></a><br><ul>
 <li> <a href="https://addons.mozilla.org/ru/firefox/addon/adblock-plus/?src=search">AdBlock Plus</a><br>
 <li> <a href="https://addons.mozilla.org/ru/firefox/addon/all-in-one-gestures/?src=search">All-in-One Gestures</a><br>
