@@ -54,11 +54,16 @@
 <li> <a href="http://www.winamp.com/">Winamp</a><br>
 <li> <a href="http://meridianvk.com/">Meridian</a><br></ul>
 
-* <strong>Text Editors:</strong><br><ul>
+* <strong>Code Editors:</strong><br><ul>
 <li> <a href="http://www.sublimetext.com/2">Sublime Text</a><br>
 <li> <a href="http://brackets.io/">Brackets</a><br>
 <li> <a href="http://notepad-plus-plus.org/download/">Notepad++</a><br>
 <li> <a href="https://atom.io/">Atom</a><br></ul>
+
+* <strong>Office:</strong><br> <ul>
+<li> <a href="https://products.office.com/ru-ru/home">Microsoft Office</a><br>
+<li> <a href="https://ru.libreoffice.org/download/">Libre Office</a><br>
+<li> <a href="http://www.openoffice.org/ru/download/">OpenOffice</a><br>
 
 * <strong>Communication apps:</strong><br> <ul>
 <li> <a href="http://www.skype.com/en/download-skype/skype-for-computer/">Skype</a><br>
