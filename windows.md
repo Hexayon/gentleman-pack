@@ -22,7 +22,7 @@
 <li> <a href="https://www.jetbrains.com/idea/download/">IntelliJ IDEA</a><br>
 <li> <a href="https://www.visualstudio.com/en-us/downloads/download-visual-studio-vs.aspx">Visual Studio</a><br>
 <li> <a href="https://www.python.org/downloads/">Python IDLE</a> (ver. 3+)<br>
-<li> <a href="https://www.jetbrains.com/pycharm/download/">PyCharm</a><br></ul>
+<li> <a href="https://www.jetbrains.com/pycharm/download/">PyCharm +<a href="https://www.python.org/downloads/">Python IDLE</a> (ver. 3+)</a><br></ul>
 
 <hr>
 
