@@ -40,6 +40,14 @@
 
 <hr>
 
+* <strong>Antivirus software:</strong><br><ul>
+<li> <a href="https://www.freedrweb.ru/download+cureit+free/?lng=ru">Dr. Web CureIt!</a><br>
+<li> <a href="http://free.avg.com/ru-ru/homepage">AVG Free</a><br>
+<li> <a href="https://www.avast.ua/index">Avast! Free Antivirus</a><br>
+<li> <a href="http://www.pandasecurity.com/russia/homeusers/solutions/free-antivirus/">Panda Free Antivirus</a><br>
+
+<hr>
+
 * <strong>Torrent-client:</strong><br><ul>
 <li> <a href="http://www.bittorrent.com/">BitTorrent</a><br>
 <li> <a href="http://www.utorrent.com/intl/ru/downloads/win">uTorrent</a><br>
