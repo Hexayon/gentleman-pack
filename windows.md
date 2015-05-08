@@ -65,7 +65,8 @@
 <li> <a href="http://www.adobe.com/uk/products/illustrator.html">Adobe Illustrator</a><br>
 <li> <a href="http://www.adobe.com/uk/products/photoshop.html">Photoshop</a><br>
 <li> <a href="https://get.adobe.com/ru/flashplayer/">Adobe Flash Player</a><br>
-<li> <a href="http://git-scm.com/">Git</a><br></ul>
+<li> <a href="http://git-scm.com/">Git</a><br>
+<li> <a href="http://adwcleaner.ru.uptodown.com/">AdwCleaner</a><br></ul>
 
 <hr>
 
