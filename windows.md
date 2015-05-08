@@ -44,7 +44,7 @@
 <li> <a href="https://www.freedrweb.ru/download+cureit+free/?lng=ru">Dr. Web CureIt!</a><br>
 <li> <a href="http://free.avg.com/ru-ru/homepage">AVG Free</a><br>
 <li> <a href="https://www.avast.ua/index">Avast! Free Antivirus</a><br>
-<li> <a href="http://www.pandasecurity.com/russia/homeusers/solutions/free-antivirus/">Panda Free Antivirus</a><br>
+<li> <a href="http://www.pandasecurity.com/russia/homeusers/solutions/free-antivirus/">Panda Free Antivirus</a><br></ul>
 
 <hr>
 
