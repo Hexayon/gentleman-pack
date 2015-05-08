@@ -2,7 +2,7 @@
 
 * <a href="https://www.mozilla.org/firefox/new/?scene=2#download-fx"><strong>Mozilla Firefox</strong></a><br><ul>
 <li> <a href="https://addons.mozilla.org/ru/firefox/addon/adblock-plus/?src=search">AdBlock Plus</a><br>
-<li> <a href="https://addons.mozilla.org/ru/firefox/addon/all-in-one-gestures/?src=search">All-in-One Gestures</a><br>
+<li> <a href="https://addons.mozilla.org/ru/firefox/addon/firegestures/?src=search">FireGestures</a><br>
 <li> <a href="https://addons.mozilla.org/ru/firefox/addon/speed-dial/?src=search">Speed Dial (ver. 0.9+)</a><br>
 <li> <a href="https://addons.mozilla.org/ru/firefox/addon/fastest-notifier-for-gmail/?src=search">Gmail Notifier Plus</a><br></ul>
 
