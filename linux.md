@@ -1,12 +1,8 @@
 ### Choose one of the distributions below:
-<ul>
-<li><a href="https://github.com/Hexayon/gentleman-pack/blob/master/distributions/ubuntu.md"><strong> Ubuntu</strong></a></li><br>
 
-<li><a href="https://github.com/Hexayon/gentleman-pack/blob/master/distributions/opensuse.md"><strong> OpenSUSE</strong></a></li><br>
+- [**Ubuntu**](https://github.com/Hexayon/gentleman-pack/blob/master/distributions/ubuntu.md)
+- [**OpenSUSE**](https://github.com/Hexayon/gentleman-pack/blob/master/distributions/opensuse.md)
+- [**Manjaro**](https://github.com/Hexayon/gentleman-pack/blob/master/distributions/manjaro.md)
+- [**Debian**](https://github.com/Hexayon/gentleman-pack/blob/master/distributions/debian.md)
+- [**Fedora**](https://github.com/Hexayon/gentleman-pack/blob/master/distributions/fedora.md)
 
-<li><a href="https://github.com/Hexayon/gentleman-pack/blob/master/distributions/manjaro.md"><strong> Manjaro</strong></a></li><br>
-
-<li><a href="https://github.com/Hexayon/gentleman-pack/blob/master/distributions/debian.md"><strong> Debian</strong></a></li><br>
-
-<li><a href="https://github.com/Hexayon/gentleman-pack/blob/master/distributions/fedora.md"><strong> Fedora</strong></a></li><br>
-</ul>

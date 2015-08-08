@@ -1,101 +1,112 @@
-##                     Gentleman Pack for <a href="http://windows.microsoft.com/en-us/windows/downloads">Windows</a> (ver. 7+) <br><br>
+## Gentleman Pack for [Windows](http://windows.microsoft.com/en-us/windows/downloads) (ver. 7+)
+* [**Mozilla Firefox**](https://www.mozilla.org/firefox/new/?scene=2#download-fx)
 
-* <a href="https://www.mozilla.org/firefox/new/?scene=2#download-fx"><strong>Mozilla Firefox</strong></a><br><ul>
-<li> <a href="https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?src=search">uBlock Origin</a><br>
-<li> <a href="https://addons.mozilla.org/ru/firefox/addon/firegestures/?src=search">FireGestures</a><br>
-<li> <a href="https://addons.mozilla.org/ru/firefox/addon/speed-dial/?src=search">Speed Dial (ver. 0.9+)</a><br>
-<li> <a href="https://addons.mozilla.org/ru/firefox/addon/fastest-notifier-for-gmail/?src=search">Gmail Notifier Plus</a><br></ul>
+	- [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?src=search)
+	- [FireGestures](https://addons.mozilla.org/ru/firefox/addon/firegestures/?src=search)
+	- [Speed Dial (ver. 0.9+)](https://addons.mozilla.org/ru/firefox/addon/speed-dial/?src=search)
+	- [Gmail Notifier Plus](https://addons.mozilla.org/ru/firefox/addon/fastest-notifier-for-gmail/?src=search)
 
-<hr>
+------------------------------------------------------------------------
 
-* <a href="http://www.google.com.ua/intl/us/chrome/browser/desktop/index.html"><strong>Google Chrome</strong></a><br><ul>
-<li> <a href="https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en-US">uBlock Origin</a><br>
-<li> <a href="https://chrome.google.com/webstore/detail/gestures-for-google-chrom/jpkfjicglakibpenojifdiepckckakgk?hl=en">Gestures for Google Chrome</a><br>
-<li> <a href="https://chrome.google.com/webstore/detail/speed-dial-3/hfgjjcbbihjnpdommbepdkpfnkkapnbh?hl=en-US">Speed Dial 3™</a><br>
-<li> <a href="https://chrome.google.com/webstore/detail/google-mail-checker/mihcahmgecmbnbcchbopgniflfhgnkff?hl=en">Google Mail Checker</a><br>
-<li> <a href="https://chrome.google.com/webstore/detail/downloads-your-download-b/gjihnjejboipjmadkpmknccijhibnpfe?hl=en-US">Downloads - Your Download Box</a><br></ul>
+* [**Google Chrome**](http://www.google.com.ua/intl/us/chrome/browser/desktop/index.html)
 
-<hr>
+	- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en-US)
+	- [Gestures for Google Chrome](https://chrome.google.com/webstore/detail/gestures-for-google-chrom/jpkfjicglakibpenojifdiepckckakgk?hl=en)
+	- [Speed Dial 3™](https://chrome.google.com/webstore/detail/speed-dial-3/hfgjjcbbihjnpdommbepdkpfnkkapnbh?hl=en-US)
+	- [Google Mail Checker](https://chrome.google.com/webstore/detail/google-mail-checker/mihcahmgecmbnbcchbopgniflfhgnkff?hl=en)
+	- [Downloads - Your Download Box](https://chrome.google.com/webstore/detail/downloads-your-download-b/gjihnjejboipjmadkpmknccijhibnpfe?hl=en-US)
 
-* <strong>IDE (Integrated Development Environment):</strong><br><ul>
-<li> <a href="https://www.eclipse.org/downloads/">Eclipse</a><br>
-<li> <a href="https://www.jetbrains.com/idea/download/">IntelliJ IDEA</a><br>
-<li> <a href="https://www.visualstudio.com/en-us/downloads/download-visual-studio-vs.aspx">Visual Studio</a><br>
-<li> <a href="https://www.jetbrains.com/pycharm/download/">PyCharm</a> +<a href="https://www.python.org/downloads/">Python IDLE</a> (ver. 3+)<br></ul>
+------------------------------------------------------------------------
 
-<hr>
+* **IDE (Integrated Development Environment):**
 
-* <strong>Media Players:</strong><br><ul>
-<li> <a href="http://player.gomlab.com/eng/download/">GOM Player</a><br>
-<li> <a href="http://www.videolan.org/vlc/">VLC</a><br>
-</ul>
+	- [Eclipse](https://www.eclipse.org/downloads/)
+	- [IntelliJ IDEA](https://www.jetbrains.com/idea/download/)
+	- [Visual Studio](https://www.visualstudio.com/en-us/downloads/download-visual-studio-vs.aspx)
+	- [PyCharm](https://www.jetbrains.com/pycharm/download/) +[Python IDLE](https://www.python.org/downloads/) (ver. 3+)
 
-<hr>
+------------------------------------------------------------------------
 
-* <strong>Cloud Storage:</strong><br><ul>
-<li> <a href="https://www.google.com/intl/en/drive/download/">Google drive</a><br>
-<li> <a href="https://disk.yandex.ua/?ncrnd=4997">Yandex.Disk</a><br>
-<li> <a href="https://mega.co.nz/#sync">MEGA</a><br>
-<li> <a href="https://www.dropbox.com/downloading">Dropbox</a><br></ul>
+* **Media Players:**
 
-<hr>
+	- [GOM Player](http://player.gomlab.com/eng/download/)
+	- [VLC](http://www.videolan.org/vlc/)
 
-* <strong>Antivirus software:</strong><br><ul>
-<li> <a href="https://www.freedrweb.ru/download+cureit+free/?lng=ru">Dr. Web CureIt!</a><br>
-<li> <a href="http://free.avg.com/ru-ru/homepage">AVG Free</a><br>
-<li> <a href="https://www.avast.ua/index">Avast! Free Antivirus</a><br></ul>
+------------------------------------------------------------------------
 
-<hr>
+* **Cloud Storage:**
 
-* <strong>Torrent-client:</strong><br><ul>
-<li> <a href="http://www.bittorrent.com/">BitTorrent</a><br>
-<li> <a href="http://www.utorrent.com/intl/ru/downloads/win">uTorrent</a><br>
-<li> <a href="http://www.qbittorrent.org/download.php">qBittorrent</a><br>
-<li> <a href="http://dev.deluge-torrent.org/wiki/Download">Deluge</a><br></ul>
+	- [Google drive](https://www.google.com/intl/en/drive/download/)
+	- [Yandex.Disk](https://disk.yandex.ua/?ncrnd=4997)
+	- [MEGA](https://mega.co.nz/#sync)
+	- [Dropbox](https://www.dropbox.com/downloading)
 
-<hr>
+------------------------------------------------------------------------
 
-* <strong>Audio Players:</strong><br><ul>
-<li> <a href="http://www.aimp.ru/index.php?do=download">AIMP</a><br>
-<li> <a href="http://www.foobar2000.org/download">Foobar2000</a><br>
-<li> <a href="http://meridianvk.com/">Meridian</a><br></ul>
+* **Antivirus software:**
 
-<hr>
+	- [Dr. Web CureIt!](https://www.freedrweb.ru/download+cureit+free/?lng=ru)
+	- [AVG Free](http://free.avg.com/ru-ru/homepage)
+	- [Avast! Free Antivirus](https://www.avast.ua/index)
 
-* <strong>Code Editors:</strong><br><ul>
-<li> <a href="http://www.sublimetext.com/2">Sublime Text</a><br>
-<li> <a href="http://brackets.io/">Brackets</a><br>
-<li> <a href="http://notepad-plus-plus.org/download/">Notepad++</a><br>
-<li> <a href="https://atom.io/">Atom</a><br>
-<li> <a href="https://code.visualstudio.com/">Visual Studio Code</a><br></ul>
+------------------------------------------------------------------------
 
-<hr>
+* **Torrent-client:**
 
-* <strong>Office:</strong><br> <ul>
-<li> <a href="https://products.office.com/ru-ru/home">Microsoft Office</a><br>
-<li> <a href="https://ru.libreoffice.org/download/">Libre Office</a><br>
-<li> <a href="http://www.openoffice.org/ru/download/">OpenOffice</a><br> </ul>
+	- [BitTorrent](http://www.bittorrent.com/)
+	- [uTorrent](http://www.utorrent.com/intl/ru/downloads/win)
+	- [qBittorrent](http://www.qbittorrent.org/download.php)
+	- [Deluge](http://dev.deluge-torrent.org/wiki/Download)
 
-<hr>
+------------------------------------------------------------------------
 
-* <strong>Communication apps:</strong><br> <ul>
-<li> <a href="http://www.skype.com/en/download-skype/skype-for-computer/">Skype</a><br>
-<li> <a href="http://utox.org/">uTox</a><br>
-<li> <a href="https://desktop.telegram.org/">Telegram Messenger</a><br></ul>
+* **Audio Players:**
 
-<hr>
+	- [AIMP](http://www.aimp.ru/index.php?do=download)
+	- [Foobar2000](http://www.foobar2000.org/download)
+	- [Meridian](http://meridianvk.com/)
 
-* <strong>File Archivers:</strong><br><ul>
-<li> <a href="http://www.winzip.com/win/ru/index.htm">WinZip</a><br></li>
-<li> <a href="http://www.win-rar.ru/download/">WinRAR</a><br></li>
-</ul>
+------------------------------------------------------------------------
 
-<hr>
+* **Code Editors:**
 
-* <strong>Others:</strong><br><ul>
-<li> <a href="http://www.daemon-tools.cc/downloads">DAEMON Tools</a><br>
-<li> <a href="http://www.partition-tool.com/download.htm">EaseUS Partition Master</a> (ver. 10+)<br>
-<li> <a href="http://www.ac3filter.net/wiki/Download_AC3Filter">AC3Filter</a> (ver. 2.6+)<br>
-<li> <a href="http://www.crystalidea.com/ru/download">Uninstall tool</a> (ver. 3+)<br>
-<li> <a href="http://www.burnaware.com/download.html">Burnaware</a><br>
-<li> <a href="http://git-scm.com/">Git</a><br></ul>
+	- [Sublime Text](http://www.sublimetext.com/2)
+	- [Brackets](http://brackets.io/)
+	- [Notepad++](http://notepad-plus-plus.org/download/)
+	- [Atom](https://atom.io/)
+	- [Visual Studio Code](https://code.visualstudio.com/)
+
+------------------------------------------------------------------------
+
+* **Office:**
+
+	- [Microsoft Office](https://products.office.com/ru-ru/home)
+	- [Libre Office](https://ru.libreoffice.org/download/)
+	- [OpenOffice](http://www.openoffice.org/ru/download/)
+
+------------------------------------------------------------------------
+
+* **Communication apps:**
+
+	- [Skype](http://www.skype.com/en/download-skype/skype-for-computer/)
+	- [uTox](http://utox.org/)
+	- [Telegram Messenger](https://desktop.telegram.org/)
+
+------------------------------------------------------------------------
+
+* **File Archivers:**
+
+	- [WinZip](http://www.winzip.com/win/ru/index.htm)
+	- [WinRAR](http://www.win-rar.ru/download/)
+
+------------------------------------------------------------------------
+
+* **Others:**
+
+	- [DAEMON Tools](http://www.daemon-tools.cc/downloads)
+	- [EaseUS Partition Master](http://www.partition-tool.com/download.htm) (ver. 10+)
+	- [AC3Filter](http://www.ac3filter.net/wiki/Download_AC3Filter) (ver. 2.6+)
+	- [Uninstall tool](http://www.crystalidea.com/ru/download) (ver. 3+)
+	- [Burnaware](http://www.burnaware.com/download.html)
+	- [Git](http://git-scm.com/)
+
