@@ -9,10 +9,11 @@
 <hr>
 
 * <a href="http://www.google.com.ua/intl/us/chrome/browser/desktop/index.html"><strong>Google Chrome</strong></a><br><ul>
-<li> <a href="https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom?hl=en">AdBlock</a><br>
+<li> <a href="https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en-US">uBlock Origin</a><br>
 <li> <a href="https://chrome.google.com/webstore/detail/gestures-for-google-chrom/jpkfjicglakibpenojifdiepckckakgk?hl=en">Gestures for Google Chrome</a><br>
-<li> <a href="https://chrome.google.com/webstore/detail/speed-dial-2/jpfpebmajhhopeonhlcgidhclcccjcik?hl=en">Speed Dial 2</a><br>
-<li> <a href="https://chrome.google.com/webstore/detail/google-mail-checker/mihcahmgecmbnbcchbopgniflfhgnkff?hl=en">Google Mail Checker</a><br></ul>
+<li> <a href="https://chrome.google.com/webstore/detail/speed-dial-3/hfgjjcbbihjnpdommbepdkpfnkkapnbh?hl=en-US">Speed Dial 3™</a><br>
+<li> <a href="https://chrome.google.com/webstore/detail/google-mail-checker/mihcahmgecmbnbcchbopgniflfhgnkff?hl=en">Google Mail Checker</a><br>
+<li> <a href="https://chrome.google.com/webstore/detail/downloads-your-download-b/gjihnjejboipjmadkpmknccijhibnpfe?hl=en-US">Downloads - Your Download Box</a><br></ul>
 
 <hr>
 
