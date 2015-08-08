@@ -1,7 +1,7 @@
 ##                     Gentleman Pack for <a href="http://windows.microsoft.com/en-us/windows/downloads">Windows</a> (ver. 7+) <br><br>
 
 * <a href="https://www.mozilla.org/firefox/new/?scene=2#download-fx"><strong>Mozilla Firefox</strong></a><br><ul>
-<li> <a href="https://addons.mozilla.org/ru/firefox/addon/adblock-plus/?src=search">AdBlock Plus</a><br>
+<li> <a href="https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?src=search">uBlock Origin</a><br>
 <li> <a href="https://addons.mozilla.org/ru/firefox/addon/firegestures/?src=search">FireGestures</a><br>
 <li> <a href="https://addons.mozilla.org/ru/firefox/addon/speed-dial/?src=search">Speed Dial (ver. 0.9+)</a><br>
 <li> <a href="https://addons.mozilla.org/ru/firefox/addon/fastest-notifier-for-gmail/?src=search">Gmail Notifier Plus</a><br></ul>
@@ -19,7 +19,6 @@
 
 * <strong>IDE (Integrated Development Environment):</strong><br><ul>
 <li> <a href="https://www.eclipse.org/downloads/">Eclipse</a><br>
-<li> <a href="https://netbeans.org/downloads/">NetBeans</a><br>
 <li> <a href="https://www.jetbrains.com/idea/download/">IntelliJ IDEA</a><br>
 <li> <a href="https://www.visualstudio.com/en-us/downloads/download-visual-studio-vs.aspx">Visual Studio</a><br>
 <li> <a href="https://www.jetbrains.com/pycharm/download/">PyCharm</a> +<a href="https://www.python.org/downloads/">Python IDLE</a> (ver. 3+)<br></ul>
@@ -29,7 +28,7 @@
 * <strong>Media Players:</strong><br><ul>
 <li> <a href="http://player.gomlab.com/eng/download/">GOM Player</a><br>
 <li> <a href="http://www.videolan.org/vlc/">VLC</a><br>
-<li> <a href="http://www.kmplayer.com/">KMPlayer</a><br></ul>
+</ul>
 
 <hr>
 
@@ -44,37 +43,21 @@
 * <strong>Antivirus software:</strong><br><ul>
 <li> <a href="https://www.freedrweb.ru/download+cureit+free/?lng=ru">Dr. Web CureIt!</a><br>
 <li> <a href="http://free.avg.com/ru-ru/homepage">AVG Free</a><br>
-<li> <a href="https://www.avast.ua/index">Avast! Free Antivirus</a><br>
-<li> <a href="http://www.pandasecurity.com/russia/homeusers/solutions/free-antivirus/">Panda Free Antivirus</a><br></ul>
+<li> <a href="https://www.avast.ua/index">Avast! Free Antivirus</a><br></ul>
 
 <hr>
 
 * <strong>Torrent-client:</strong><br><ul>
 <li> <a href="http://www.bittorrent.com/">BitTorrent</a><br>
 <li> <a href="http://www.utorrent.com/intl/ru/downloads/win">uTorrent</a><br>
-<li> <a href="http://www.bitcomet.com/">BitComet</a><br>
-<li> <a href="http://www.bitspirit.cc/en/">BitSpirit</a><br></ul>
-
-<hr>
-
-* <strong>System Utilities:</strong><br><ul>
-<li> <a href="http://www.daemon-tools.cc/downloads">DAEMON Tools</a><br>
-<li> <a href="http://www.partition-tool.com/download.htm">EaseUS Partition Master</a> (ver. 10+)<br>
-<li> <a href="http://www.ac3filter.net/wiki/Download_AC3Filter">AC3Filter</a> (ver. 2.6+)<br>
-<li> <a href="http://www.crystalidea.com/ru/download">Uninstall tool</a> (ver. 3+)<br>
-<li> <a href="http://www.burnaware.com/download.html">Burnaware</a><br>
-<li> <a href="http://www.adobe.com/uk/products/illustrator.html">Adobe Illustrator</a><br>
-<li> <a href="http://www.adobe.com/uk/products/photoshop.html">Photoshop</a><br>
-<li> <a href="https://get.adobe.com/ru/flashplayer/">Adobe Flash Player</a><br>
-<li> <a href="http://git-scm.com/">Git</a><br>
-<li> <a href="http://adwcleaner.ru.uptodown.com/">AdwCleaner</a><br></ul>
+<li> <a href="http://www.qbittorrent.org/download.php">qBittorrent</a><br>
+<li> <a href="http://dev.deluge-torrent.org/wiki/Download">Deluge</a><br></ul>
 
 <hr>
 
 * <strong>Audio Players:</strong><br><ul>
 <li> <a href="http://www.aimp.ru/index.php?do=download">AIMP</a><br>
-<li> <a href="http://audio.gomlab.com/eng/">GOM Audio</a><br>
-<li> <a href="http://www.winamp.com/">Winamp</a><br>
+<li> <a href="http://www.foobar2000.org/download">Foobar2000</a><br>
 <li> <a href="http://meridianvk.com/">Meridian</a><br></ul>
 
 <hr>
@@ -97,8 +80,7 @@
 
 * <strong>Communication apps:</strong><br> <ul>
 <li> <a href="http://www.skype.com/en/download-skype/skype-for-computer/">Skype</a><br>
-<li> <a href="https://pidgin.im/download/">Pidgin</a><br>
-<li> <a href="https://www.icq.com">ICQ</a><br>
+<li> <a href="http://utox.org/">uTox</a><br>
 <li> <a href="https://desktop.telegram.org/">Telegram Messenger</a><br></ul>
 
 <hr>
@@ -107,3 +89,13 @@
 <li> <a href="http://www.winzip.com/win/ru/index.htm">WinZip</a><br></li>
 <li> <a href="http://www.win-rar.ru/download/">WinRAR</a><br></li>
 </ul>
+
+<hr>
+
+* <strong>Others:</strong><br><ul>
+<li> <a href="http://www.daemon-tools.cc/downloads">DAEMON Tools</a><br>
+<li> <a href="http://www.partition-tool.com/download.htm">EaseUS Partition Master</a> (ver. 10+)<br>
+<li> <a href="http://www.ac3filter.net/wiki/Download_AC3Filter">AC3Filter</a> (ver. 2.6+)<br>
+<li> <a href="http://www.crystalidea.com/ru/download">Uninstall tool</a> (ver. 3+)<br>
+<li> <a href="http://www.burnaware.com/download.html">Burnaware</a><br>
+<li> <a href="http://git-scm.com/">Git</a><br></ul>
