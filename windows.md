@@ -1,10 +1,7 @@
-## Gentleman Pack for [Windows](http://windows.microsoft.com/en-us/windows/downloads) (ver. 7+)
+## Gentleman Pack for [Windows](https://windows.microsoft.com/en-us/windows/downloads) (ver. 7+)
 * [**Mozilla Firefox**](https://www.mozilla.org/firefox/new/?scene=2#download-fx)
+ For list of addons and other recommendations see https://github.com/The-OP/Fox
 
-	- [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?src=search)
-	- [FireGestures](https://addons.mozilla.org/ru/firefox/addon/firegestures/?src=search)
-	- [Speed Dial (ver. 0.9+)](https://addons.mozilla.org/ru/firefox/addon/speed-dial/?src=search)
-	- [Gmail Notifier Plus](https://addons.mozilla.org/ru/firefox/addon/fastest-notifier-for-gmail/?src=search)
 
 ------------------------------------------------------------------------
 
@@ -20,10 +17,10 @@
 
 * **IDE (Integrated Development Environment):**
 
+	- [Visual Studio](https://www.visualstudio.com/en-us/downloads/download-visual-studio-vs.aspx)
 	- [Eclipse](https://www.eclipse.org/downloads/)
 	- [IntelliJ IDEA](https://www.jetbrains.com/idea/download/)
-	- [Visual Studio](https://www.visualstudio.com/en-us/downloads/download-visual-studio-vs.aspx)
-	- [PyCharm](https://www.jetbrains.com/pycharm/download/) +[Python IDLE](https://www.python.org/downloads/) (ver. 3+)
+	- [PyCharm](https://www.jetbrains.com/pycharm/download/) + [Python IDLE](https://www.python.org/downloads/) (ver. 3+)
 
 ------------------------------------------------------------------------
 
@@ -36,27 +33,25 @@
 
 * **Cloud Storage:**
 
+	- [Yandex.Disk](https://disk.yandex.ru/)
 	- [Google drive](https://www.google.com/intl/en/drive/download/)
-	- [Yandex.Disk](https://disk.yandex.ua/?ncrnd=4997)
-	- [MEGA](https://mega.co.nz/#sync)
 	- [Dropbox](https://www.dropbox.com/downloading)
+	- [SugarSync](https://www.sugarsync.com/)
 
 ------------------------------------------------------------------------
 
 * **Antivirus software:**
 
 	- [Dr. Web CureIt!](https://www.freedrweb.ru/download+cureit+free/?lng=ru)
-	- [AVG Free](http://free.avg.com/ru-ru/homepage)
-	- [Avast! Free Antivirus](https://www.avast.ua/index)
+	- [AVZ](http://z-oleg.ru)
 
 ------------------------------------------------------------------------
 
 * **Torrent-client:**
 
-	- [BitTorrent](http://www.bittorrent.com/)
 	- [uTorrent](http://www.utorrent.com/intl/ru/downloads/win)
 	- [qBittorrent](http://www.qbittorrent.org/download.php)
-	- [Deluge](http://dev.deluge-torrent.org/wiki/Download)
+	- Transmission
 
 ------------------------------------------------------------------------
 
@@ -70,43 +65,35 @@
 
 * **Code Editors:**
 
-	- [Sublime Text](http://www.sublimetext.com/2)
-	- [Brackets](http://brackets.io/)
 	- [Notepad++](http://notepad-plus-plus.org/download/)
 	- [Atom](https://atom.io/)
-	- [Visual Studio Code](https://code.visualstudio.com/)
+	- [Sublime Text](http://www.sublimetext.com/2)
+	- [Brackets](http://brackets.io/)
 
 ------------------------------------------------------------------------
 
 * **Office:**
 
 	- [Microsoft Office](https://products.office.com/ru-ru/home)
-	- [Libre Office](https://ru.libreoffice.org/download/)
-	- [OpenOffice](http://www.openoffice.org/ru/download/)
+	- [Libre Office](https://libreoffice.org/)
 
 ------------------------------------------------------------------------
 
 * **Communication apps:**
 
-	- [Skype](http://www.skype.com/en/download-skype/skype-for-computer/)
-	- [uTox](http://utox.org/)
-	- [Telegram Messenger](https://desktop.telegram.org/)
+	- [uTox](https://utox.org/)
 
 ------------------------------------------------------------------------
 
 * **File Archivers:**
 
-	- [WinZip](http://www.winzip.com/win/ru/index.htm)
 	- [WinRAR](http://www.win-rar.ru/download/)
 
 ------------------------------------------------------------------------
 
 * **Others:**
 
-	- [DAEMON Tools](http://www.daemon-tools.cc/downloads)
-	- [EaseUS Partition Master](http://www.partition-tool.com/download.htm) (ver. 10+)
+	- [DAEMON Tools](https://www.daemon-tools.cc/downloads)
 	- [AC3Filter](http://www.ac3filter.net/wiki/Download_AC3Filter) (ver. 2.6+)
-	- [Uninstall tool](http://www.crystalidea.com/ru/download) (ver. 3+)
-	- [Burnaware](http://www.burnaware.com/download.html)
-	- [Git](http://git-scm.com/)
+	- [Git](https://git-scm.com/)
 
