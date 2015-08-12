@@ -98,4 +98,7 @@
 <li> <a href="http://www.ac3filter.net/wiki/Download_AC3Filter">AC3Filter</a> (ver. 2.6+)<br>
 <li> <a href="http://www.crystalidea.com/ru/download">Uninstall tool</a> (ver. 3+)<br>
 <li> <a href="http://www.burnaware.com/download.html">Burnaware</a><br>
-<li> <a href="http://git-scm.com/">Git</a><br></ul>
+<li> <a href="http://git-scm.com/">Git</a><br>
+<li> <a href="http://www.rapidee.com/">Rapid Environment Editor</a><br>
+<li> <a href="https://suurjaak.github.io/Skyperious/">Skyperious</a><br>
+</ul>
