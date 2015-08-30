@@ -1,4 +1,4 @@
-## Gentleman Pack for ***Windows*** (ver. 7+)
+## Gentleman Pack for ***Windows*** (Vista, 7, 8, 8.1, 10)
 * [**Mozilla Firefox**](https://www.mozilla.org/)<br>
  For list of addons and other recommendations see https://github.com/The-OP/Fox
 
