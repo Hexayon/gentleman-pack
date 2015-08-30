@@ -33,17 +33,9 @@
 
 * **Cloud Storage:**
 
-	- [Yandex.Disk](https://disk.yandex.ru/)
 	- [Google drive](https://www.google.com/intl/en/drive/download/)
 	- [Dropbox](https://www.dropbox.com/downloading)
 	- [SugarSync](https://www.sugarsync.com/)
-
-------------------------------------------------------------------------
-
-* **Antivirus software:**
-
-	- [Dr. Web CureIt!](https://www.freedrweb.ru/download+cureit+free/?lng=ru)
-	- [AVZ](http://z-oleg.ru)
 
 ------------------------------------------------------------------------
 
@@ -51,7 +43,6 @@
 
 	- [uTorrent](http://www.utorrent.com/intl/ru/downloads/win)
 	- [qBittorrent](http://www.qbittorrent.org/download.php)
-	- Transmission
 
 ------------------------------------------------------------------------
 
@@ -59,7 +50,6 @@
 
 	- [AIMP](http://www.aimp.ru/index.php?do=download)
 	- [Foobar2000](http://www.foobar2000.org/download)
-	- [Meridian](http://meridianvk.com/)
 
 ------------------------------------------------------------------------
 
@@ -82,12 +72,14 @@
 * **Communication apps:**
 
 	- [uTox](https://utox.org/)
+	- [Skype](http://www.skype.com/en/download-skype/skype-for-computer/)
 
 ------------------------------------------------------------------------
 
 * **File Archivers:**
 
 	- [WinRAR](http://www.win-rar.ru/download/)
+	- [7-Zip](http://www.7-zip.org/)
 
 ------------------------------------------------------------------------
 
