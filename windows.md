@@ -1,11 +1,11 @@
-## Gentleman Pack for [Windows](https://windows.microsoft.com/en-us/windows/downloads) (ver. 7+)
-* [**Mozilla Firefox**](https://www.mozilla.org/firefox/new/?scene=2#download-fx)<br>
+## Gentleman Pack for ***Windows*** (ver. 7+)
+* [**Mozilla Firefox**](https://www.mozilla.org/)<br>
  For list of addons and other recommendations see https://github.com/The-OP/Fox
 
 
 ------------------------------------------------------------------------
 
-* [**Google Chrome**](http://www.google.com.ua/intl/us/chrome/browser/desktop/index.html)
+* [**Google Chrome**](http://www.google.com.ua/)
 
 	- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en-US)
 	- [Gestures for Google Chrome](https://chrome.google.com/webstore/detail/gestures-for-google-chrom/jpkfjicglakibpenojifdiepckckakgk?hl=en)
@@ -17,75 +17,68 @@
 
 * **IDE (Integrated Development Environment):**
 
-	- [Visual Studio](https://www.visualstudio.com/en-us/downloads/download-visual-studio-vs.aspx)
-	- [Eclipse](https://www.eclipse.org/downloads/)
-	- [IntelliJ IDEA](https://www.jetbrains.com/idea/download/)
-	- [PyCharm](https://www.jetbrains.com/pycharm/download/) + [Python IDLE](https://www.python.org/downloads/) (ver. 3+)
+	- [Visual Studio](https://www.visualstudio.com/)
+	- [Eclipse](https://www.eclipse.org/)
+	- [IntelliJ IDEA](https://www.jetbrains.com/)
+	- [PyCharm](https://www.jetbrains.com/pycharm) + [Python IDLE](https://www.python.org) (ver. 3+)
 
 ------------------------------------------------------------------------
 
 * **Media Players:**
 
-	- [GOM Player](http://player.gomlab.com/eng/download/)
-	- [VLC](http://www.videolan.org/vlc/)
+	- [GOM Player](http://player.gomlab.com/)
+	- [VLC](http://www.videolan.org/)
 
 ------------------------------------------------------------------------
 
 * **Cloud Storage:**
 
-	- [Google drive](https://www.google.com/intl/en/drive/download/)
-	- [Dropbox](https://www.dropbox.com/downloading)
+	- [Google drive](https://www.google.com/intl/en/drive)
+	- [Dropbox](https://www.dropbox.com)
 	- [SugarSync](https://www.sugarsync.com/)
 
 ------------------------------------------------------------------------
 
 * **Torrent-client:**
 
-	- [uTorrent](http://www.utorrent.com/intl/ru/downloads/win)
-	- [qBittorrent](http://www.qbittorrent.org/download.php)
+	- [uTorrent](http://www.utorrent.com/)
+	- [qBittorrent](http://www.qbittorrent.org/)
 
 ------------------------------------------------------------------------
 
 * **Audio Players:**
 
-	- [AIMP](http://www.aimp.ru/index.php?do=download)
-	- [Foobar2000](http://www.foobar2000.org/download)
+	- [AIMP](http://www.aimp.ru/)
+	- [Foobar2000](http://www.foobar2000.org/)
 
 ------------------------------------------------------------------------
 
 * **Code Editors:**
 
-	- [Notepad++](http://notepad-plus-plus.org/download/)
+	- [Notepad++](http://notepad-plus-plus.org/)
 	- [Atom](https://atom.io/)
-	- [Sublime Text](http://www.sublimetext.com/2)
+	- [Sublime Text](http://www.sublimetext.com/)
 	- [Brackets](http://brackets.io/)
-
-------------------------------------------------------------------------
-
-* **Office:**
-
-	- [Microsoft Office](https://products.office.com/ru-ru/home)
-	- [Libre Office](https://libreoffice.org/)
 
 ------------------------------------------------------------------------
 
 * **Communication apps:**
 
 	- [uTox](https://utox.org/)
-	- [Skype](http://www.skype.com/en/download-skype/skype-for-computer/)
+	- [Skype](http://www.skype.com/)
 
 ------------------------------------------------------------------------
 
 * **File Archivers:**
 
-	- [WinRAR](http://www.win-rar.ru/download/)
+	- [WinRAR](http://www.win-rar.ru/)
 	- [7-Zip](http://www.7-zip.org/)
 
 ------------------------------------------------------------------------
 
 * **Others:**
 
-	- [DAEMON Tools](https://www.daemon-tools.cc/downloads)
-	- [AC3Filter](http://www.ac3filter.net/wiki/Download_AC3Filter) (ver. 2.6+)
+	- [DAEMON Tools](https://www.daemon-tools.cc.)
+	- [AC3Filter](http://www.ac3filter.net/) (ver. 2.6+)
 	- [Git](https://git-scm.com/)
 
