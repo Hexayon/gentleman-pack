@@ -3,7 +3,3 @@
  • [**Windows**](https://github.com/Hexayon/gentleman-pack/blob/master/windows.md)<br>
  • [**Linux**](https://github.com/Hexayon/gentleman-pack/blob/master/linux.md)<br>
  • [**Mac OS**](https://github.com/Hexayon/gentleman-pack/blob/master/mac.md)<br>
- <br>
-# **Credits:** <br>***hexayon@ex.ua***<br>
- ***d.sabayon@gmail.com***<br>
- or Skype: ***hexayon***
