@@ -1,5 +1,5 @@
 ## Gentleman Pack for [Windows](https://windows.microsoft.com/en-us/windows/downloads) (ver. 7+)
-* [**Mozilla Firefox**](https://www.mozilla.org/firefox/new/?scene=2#download-fx)
+* [**Mozilla Firefox**](https://www.mozilla.org/firefox/new/?scene=2#download-fx)<br>
  For list of addons and other recommendations see https://github.com/The-OP/Fox
 
 
