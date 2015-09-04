@@ -76,4 +76,4 @@
 
 	- [AC3Filter](http://www.ac3filter.net/) (ver. 2.6+)
 	- [Git](https://git-scm.com/)
-
+	- [WPS Office](http://www.kingsoftstore.com/software/kingsoft-office-freeware)
