@@ -5,13 +5,10 @@
 
 ------------------------------------------------------------------------
 
-* [**Google Chrome**](http://www.google.com.ua/)
+* [**UC Browser**](http://www.ucweb.com/ucbrowser/)
 
 	- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en-US)
-	- [Gestures for Google Chrome](https://chrome.google.com/webstore/detail/gestures-for-google-chrom/jpkfjicglakibpenojifdiepckckakgk?hl=en)
-	- [FVD Speed Dial](https://chrome.google.com/webstore/detail/speed-dial-fvd-new-tab-pa/llaficoajjainaijghjlofdfmbjpebpa?hl=en)
-	- [Google Mail Checker](https://chrome.google.com/webstore/detail/google-mail-checker/mihcahmgecmbnbcchbopgniflfhgnkff?hl=en)
-	- [Downloads - Your Download Box](https://chrome.google.com/webstore/detail/downloads-your-download-b/gjihnjejboipjmadkpmknccijhibnpfe?hl=en-US)
+	- [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp?hl=en)
 
 ------------------------------------------------------------------------
 
