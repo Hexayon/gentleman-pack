@@ -24,6 +24,7 @@
 * **Media Player:**
 
 	- [MPC-HC](https://mpc-hc.org/)
+	- [MPV](https://mpv.io/)
 
 ------------------------------------------------------------------------
 
@@ -31,13 +32,13 @@
 
 	- [Google drive](https://www.google.com/intl/en/drive)
 	- [Dropbox](https://www.dropbox.com)
+	- [MEGA](https://mega.nz/)
 
 ------------------------------------------------------------------------
 
 * **Torrent-client:**
 
 	- [BitTorrent](http://www.bittorrent.com/)
-	- [qBittorrent](http://www.qbittorrent.org/)
 
 ------------------------------------------------------------------------
 
@@ -48,28 +49,26 @@
 
 ------------------------------------------------------------------------
 
-* **Code Editors:**
+* **Code Editor:**
 
 	- [Notepad++](http://notepad-plus-plus.org/)
-	- [Atom](https://atom.io/)
-	- [Sublime Text](http://www.sublimetext.com/)
 
 ------------------------------------------------------------------------
 
-* **Communication apps:**
+* **Communication app:**
 
-	- [uTox](https://utox.org/)
 	- [Skype](http://www.skype.com/)
 
 ------------------------------------------------------------------------
 
-* **File Archivers:**
+* **File Archiver:**
 
 	- [7-Zip](http://www.7-zip.org/)
 
 ------------------------------------------------------------------------
 
-* **Others:**
+* **Other:**
 
-	- [AC3Filter](http://www.ac3filter.net/) (ver. 2.6+)
 	- [Git](https://git-scm.com/)
+	- [Download Master](https://westbyte.com/dm/index.phtml?page=download)
+	- [Oracle VM VirtualBox](https://www.virtualbox.org/)
